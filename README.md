@@ -2,9 +2,10 @@
  
 ###### Trường: Cao Đẳng Thực Hành Fpt Polytechnic.
 ###### Môn:AGILE
-###### Giảng Viên: TRẦN THỊ HƯƠNG
+###### Giảng Viên: TRẦN THỊ HƯỜNG
+###### LỚP :CP17201
 ###### Nhóm Thực Hiện: Nhóm 2
-###### Thành Viên:HUYỀN SƯƠNG(nhóm trường),MAI ANH QUÂN, PHAN QUỐC THIÊN,..KỲ, ĐỖ NGỌC THACH.
+###### Thành Viên:HUYỀN SƯƠNG(nhóm trường),MAI ANH QUÂN, PHAN QUỐC THIÊN,VÕ ĐẠI HIẾU KỲ, ĐỖ NGỌC THACH.
 
 
 
