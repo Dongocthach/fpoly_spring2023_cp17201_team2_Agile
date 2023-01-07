@@ -5,7 +5,7 @@
 ###### Giảng Viên: TRẦN THỊ HƯỜNG
 ###### LỚP :CP17201
 ###### Nhóm Thực Hiện: Nhóm 2
-###### Thành Viên:HUYỀN SƯƠNG(nhóm trường),MAI ANH QUÂN, PHAN QUỐC THIÊN,VÕ ĐẠI HIẾU KỲ, ĐỖ NGỌC THACH.
+###### Thành Viên:HUYỀN SƯƠNG(nhóm trưởng),PHẠM VĂN QUÂN, PHAN QUỐC THIÊN,VÕ ĐẠI HIẾU KỲ, ĐỖ NGỌC THACH.
 
 
 
