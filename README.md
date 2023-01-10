@@ -6,11 +6,6 @@
 ###### LỚP :CP17201
 ###### Nhóm Thực Hiện: Nhóm 2
 ###### Thành Viên:HUYỀN SƯƠNG(nhóm trưởng),PHẠM VĂN QUÂN, PHAN QUỐC THIÊN,VÕ ĐẠI HIẾU KỲ, ĐỖ NGỌC THACH.
-
-
-
-
-
-	
+![Alt text](img.svg?raw=true "Title")
 	
 	
