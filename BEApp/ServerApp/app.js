@@ -7,7 +7,7 @@ var logger = require('morgan');
 
 const mongoose = require('mongoose');
 mongoose.set('strictQuery', true);
-mongoose.connect('mongodb+srv://serverandroid:Quan123@cluster0.xh6msba.mongodb.net/SmartHeath?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://serverandroid:Quan123@cluster0.xh6msba.mongodb.net/SmartHealth?retryWrites=true&w=majority',{
   useNewUrlParser:true,
   useUnifiedTopology:true,
 }).then(()=>console.log('Kết nối thành công!'))
