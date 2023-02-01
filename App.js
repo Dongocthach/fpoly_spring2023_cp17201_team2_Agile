@@ -1,5 +1,5 @@
 // const createError = require('http-errors');
-// const express = require('express');
+const express = require('express');
 // const path = require('path');
 // const cookieParser = require('cookie-parser');
 // const logger = require('morgan');
@@ -64,13 +64,9 @@
 //   res.render('error');
 // });
 
-// module.exports = app;
 
-const express = require("express");
-
-require("dotenv").config();
-const app = express();
 const port = process.env.PORT || 5001;
 app.listen(port, () => {
     console.log(`Our app is running on port ${ port }`);
 });
+module.exports = app;
