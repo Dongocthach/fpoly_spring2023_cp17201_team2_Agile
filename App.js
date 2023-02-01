@@ -9,12 +9,6 @@ require('./modules/shoe/ShoeModel');
 require('./modules/categories/CategoryModel');
 
 
-const port = process.env.PORT || 3000;
-
-server.listen(port,() => {
-  console.log(`Server running at port `+port);
-});
-
 const dbURI = 'mongodb+srv://sheep:test1234@cluster0.iayhcp3.mongodb.net/ps19765?retryWrites=true&w=majority';
 mongoose.connect(dbURI, {
   useNewUrlParser: true,
@@ -31,6 +25,7 @@ const apiRouter= require('./routes/api');
 const studentRouter = require('./routes/student')
 
 const app = express();
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -65,4 +60,4 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-
+module.exports = app;
